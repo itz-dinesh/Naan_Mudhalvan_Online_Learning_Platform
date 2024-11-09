@@ -1,8 +1,9 @@
+https://onlinelearningplatformnm.netlify.app/
+Check out the website here!
 
 # StudyApp - Naan Mudhalvan Project
 
-![StudyApp Logo](path/to/logo.png) *(Optional: Add a logo for your project here)*
-
+StudyApp Logo
 ## Table of Contents
 
 - [Introduction](#introduction)
